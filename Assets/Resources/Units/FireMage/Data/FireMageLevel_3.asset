@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ba1169326c58aa4bb3cbc3afc3299ff, type: 3}
+  m_Name: FireMageLevel_3
+  m_EditorClassIdentifier: 
+  Name: 
+  Description: 
+  Cost: 1000
+  Visualization: {fileID: 2854584173920098432, guid: dc94600e9ffdd314a8d4d0cd9710c2c4,
+    type: 3}
+  Projectile: {fileID: 2772713528725750921, guid: e6aeaf1123d10e34fb107bcde28fb35f,
+    type: 3}
+  ProjectileSpeed: 15
+  Damage: 70
+  AttackRadius: 0.9
+  AttackSpeed: 2.5
+  AwakeTime: 8
+  AOE: 2
+  AOEDamageCoefficient: 0.6

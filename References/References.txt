@@ -1,0 +1,25 @@
+The following resources have been used in the project:
+
+https://opengameart.org/content/rotating-arrow-projectile
+https://opengameart.org/content/stencil-animated-flag
+https://opengameart.org/content/punch
+https://opengameart.org/content/animated-wizard
+https://opengameart.org/content/heroic-demise-updated-version
+https://opengameart.org/content/icicle-spell
+https://opengameart.org/content/stars-set-01
+
+https://opengameart.org/content/bad-sound-1
+https://opengameart.org/content/lots-of-game-effects
+https://opengameart.org/content/win-sound-2
+https://opengameart.org/content/punch-slap-n-kick
+
+https://opengameart.org/content/forest-ranger
+https://opengameart.org/content/prince-ranger
+https://opengameart.org/content/animated-ranger
+https://opengameart.org/content/thief
+https://opengameart.org/content/noble-ranger
+https://opengameart.org/content/dark-ranger
+https://opengameart.org/content/fierce-wizard
+
+https://gamedevacademy.org/mastering-unitys-new-tilemap-editor-building-2d-levels/
+https://bakudas.itch.io/generic-rpg-pack

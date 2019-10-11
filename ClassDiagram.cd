@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scripts.CreateUnit">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAIAAAIAAAAAAAAAAAAAIAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\CreateUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyData">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACAAAAAAAAAAAAABAAAAAAAAABAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\EnemyData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scripts.EnemyDestructionDelegate">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Scripts.EnemyDestructionDelegate.EnemyDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\EnemyDestructionDelegate.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyDestructionDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyPath">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAABAAAIgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

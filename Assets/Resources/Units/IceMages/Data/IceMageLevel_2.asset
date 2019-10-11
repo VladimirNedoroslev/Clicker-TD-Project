@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c2635496353e841a31e49afd96ec62, type: 3}
+  m_Name: IceMageLevel_2
+  m_EditorClassIdentifier: 
+  Name: 
+  Description: 
+  Cost: 300
+  Visualization: {fileID: 1575311310436210673, guid: 032349a6a792d0f4d902d9c1100b0891,
+    type: 3}
+  Projectile: {fileID: 6666857931681282645, guid: 0bfd3c8743e18e04b8e271016887ab1b,
+    type: 3}
+  ProjectileSpeed: 30
+  Damage: 30
+  AttackRadius: 0.8
+  AttackSpeed: 1
+  AwakeTime: 8
+  SlowDuration: 3
+  SlowCoefficient: 0.5

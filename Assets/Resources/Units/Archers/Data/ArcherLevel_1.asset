@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9de464fd6c6e2be478aba77df359c693, type: 3}
+  m_Name: ArcherLevel_1
+  m_EditorClassIdentifier: 
+  Name: 
+  Description: 
+  Cost: 100
+  Visualization: {fileID: 8635445556399003264, guid: 72c0acd6dc4ba90419bfcdac59950492,
+    type: 3}
+  Projectile: {fileID: 6328032724102324816, guid: 0c2c5b0cd9639d04a94fb2acb76b7a2d,
+    type: 3}
+  ProjectileSpeed: 15
+  Damage: 15
+  AttackRadius: 0.7
+  AttackSpeed: 1
+  AwakeTime: 5

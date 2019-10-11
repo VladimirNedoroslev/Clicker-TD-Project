@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3762741f547f9840b6a7cdf2ac0a8db, type: 3}
+  m_Name: WaveLevel_6
+  m_EditorClassIdentifier: 
+  enemyToSpawnPrefab:
+  - {fileID: 3508239382535598250, guid: 5153bb958b7fe134e9041461f1cb4cbf, type: 3}
+  - {fileID: 4193834335576337703, guid: 17c623a14bca8c848aa35bb9047fc43e, type: 3}
+  - {fileID: 3351741603392027715, guid: 16d2fa74e95323c4ebd240cb09add481, type: 3}
+  - {fileID: 9196915271559253799, guid: 2733c356e20219f409ce23253750eb35, type: 3}
+  - {fileID: 448656516779714558, guid: c5652046fe4907e4ab32a0ece5c011f9, type: 3}
+  spawnInterval:
+  - 1
+  - 2
+  - 3
+  - 1
+  - 5
+  maxEnemies: 140000001e000000140000001e00000001000000
